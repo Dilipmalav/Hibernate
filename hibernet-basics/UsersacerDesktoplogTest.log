@@ -1,0 +1,8 @@
+This is Debug...!!
+This is Info...!!
+This is Warn...!!
+This is Error...!!
+This is Fatal...!!
+Arithmetic Error
+java.lang.ArithmeticException: / by zero
+	at com.rays.log4j.TestLog4j.main(TestLog4j.java:21)
